@@ -3,9 +3,12 @@ Dieses File beinhaltet die Dokumentation zu meinem Vagrantfile.
 # Apache2, PHP und MySQL Infrastruktur als Service (Vagrant)
 
 ### Inhaltsverzeichnis
-1. [Was macht meine Vagrantdatei?](#Was-macht-meine-Vagrantdatei?)
-2. [Was macht die PHP Datei?](#Was-macht-die-PHP-Datei?)
-3. [Was macht die HTML Datei?](#Was-macht-die-HTML-Datei?)
+1. [Verzeichnisstruktur](#Verzeichnisstruktur)
+2. [Die Vagrantdatei](#Die-Vagrantdatei)
+3. [Die PHPdatei](#Die-PHPdatei)
+4. [Die Vagrantdatei erklärt](#Die-Vagrantdatei-erklärt)
+5. [Was macht der Code der db.sh Datei?](#Was-macht-der-Code-der-db.sh-Datei?)
+6. [Probleme die aufgetaucht sind](##Probleme-die-aufetaucht-sind)
 
 ### Verzeichnisstruktur
 Mein Repository ist wie folgt aufgebaut:
