@@ -8,4 +8,4 @@ COPY Anforderungen.txt Anforderungen.txt
 RUN pip install -r Anforderungen.txt
 EXPOSE 5000
 COPY . .
-
+CMD ["flask", "run"]
