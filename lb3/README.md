@@ -86,3 +86,4 @@ Diese Datei braucht man um den Dienst zu starten, bzw zu "bauen". Hier ist nochm
 
 ### Wie kann man den Dienst testen?
 Um den Dienst zu testen, muss man als ersten mein Repository M300-Services klonen. Danach muss man den Dockerclient starten und dann muss man in den lb3 Ordner wechseln. Wenn man das hat, muss man den Befehl "docker-compose up" eingeben. Nun wird der Dienst gestartet. Nun kann man in dem Browser "http://localhost:8000/" eingeben und dann sieht man schon den Counter. Wenn man die Seite aktualisiert, sollte sich dieser erhöhen.
+<img width="470" alt="image" src="https://user-images.githubusercontent.com/100407598/168252688-c6c7fa61-516b-4d08-b761-9f0cedfd684d.png">
