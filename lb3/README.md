@@ -6,9 +6,9 @@ Ich habe mit Hilfe von Docker einen Redin/Alpine Dienst installiert. Wird meine 
 ### Inhaltsverzeichnis
 1. [Verzeichnisstruktur](#Verzeichnisstruktur)
 2. [Die Dockerdatei erklärt](#Die-Dockerdatei-erklärt)
-3. [Die Pythondatei](#Die-Phytondatei)
+3. [Die Pythondatei](#Die-Pythondatei)
 4. [Die Docker-compose-Datei erklärt](#Die-Docker-compose-Datei-erklärt)
-5. [Wie kann man den Dienst testen?](#Wie-kann-man-den-Diesnt-testen)
+5. [Wie kann man den Dienst testen?](#Wie-kann-man-den-Dienst-testen)
 
 ### Verzeichnisstruktur
 Mein Repository ist wie folgt aufgebaut:
